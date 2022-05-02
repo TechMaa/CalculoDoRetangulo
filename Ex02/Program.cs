@@ -18,7 +18,7 @@ namespace curso
 
             Console.WriteLine("AREA = " + area.ToString("F4", CultureInfo.InvariantCulture));
             Console.WriteLine("PERIMETRO = " + perimetro.ToString("F4", CultureInfo.InvariantCulture));
-                Console.WriteLine("DIAGONAL = " + diagonal.ToString("F4", CultureInfo.InvariantCulture));
+            Console.WriteLine("DIAGONAL = " + diagonal.ToString("F4", CultureInfo.InvariantCulture));
 
             Console.ReadLine();
         }
